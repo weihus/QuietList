@@ -1,0 +1,9 @@
+name = "quietlist"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "./dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "quietlist-vaults"
+database_id = "5479d301-4145-47f7-a485-93538bbcf726"
+migrations_dir = "migrations"
